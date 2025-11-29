@@ -1,6 +1,7 @@
 #  E-Commerce Customer Churn Prediction 
 
-<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/79ce613b-955e-480c-901a-bcaa5ccc9e62" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/a7a24cf7-071c-4698-ba58-b17f75e4877a" />
+
 
 
 ---
@@ -28,7 +29,7 @@ A simple and interactive **Web application** has been developed to provide a use
 
 * **Python**
 * **Google Collab**
-* **HTML, CSS** (for UI)
+* **Streamlit** (for UI)
 * **Scikit-learn** (for ML model)
 * **Pandas** (data handling)
 * **NumPy** (numerical operations)
@@ -49,7 +50,7 @@ A simple and interactive **Web application** has been developed to provide a use
 ECommerce_Customer_Churn_Prediction-ML_Model/
 
 * **E_Commerce_Customer_Churn_Prediction.ipynb       # Google colab with model training**
-* **app.py          # HTML file**
+* **app.py          # ui of model**
 * **requirements.txt        # Dependencies**
 * **README.md               # Project documentation**
 * **dataset.csv             # Dataset used for training**
@@ -67,7 +68,7 @@ ECommerce_Customer_Churn_Prediction-ML_Model/
 
 2. Run the Streamlit app:
 
-   python app.py
+   streamlit run app.py
    
 
 ---
