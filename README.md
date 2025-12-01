@@ -12,6 +12,7 @@ This project aims to **predict whether customers will churn or not** by utilizin
 The model is built on the **XGBoost** algorithm, as it provided the best performance among tested models, achieving an accuracy score of **97%**.
 
 A simple and interactive **Web application** has been developed to provide a user-friendly interface for predictions.
+Link: https://ecommerce-churn-prediction-ml.streamlit.app/
 
 ---
 
